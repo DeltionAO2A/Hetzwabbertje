@@ -1,0 +1,19 @@
+-- pages --
+
+Login
+
+
+menu waarin modules kunnen worden gekozen
+ schoonmaker
+     - weekplanning
+     - plattegronden
+
+ beheerder
+     - Weekplannning
+     - beoordelen
+     - schoonmakers beheren (Aanmaken, verwijderen, bekijken)
+     - overzicht van beoordelingen van die ruimtes
+     - overzicht van beoordelingen schoongemaakte opjecten
+
+
+
