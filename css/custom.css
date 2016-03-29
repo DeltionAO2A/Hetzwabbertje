@@ -1,0 +1,20 @@
+.jh-sidebar{
+    width: 100%; !important
+}
+
+.jh-sidebar ul li {
+    
+    font-size: 20px;
+    line-height: 1.8; 
+    
+}
+
+.card.small {
+    height: 150px; !important
+
+}
+
+.card {
+    background-color: #fff; !important
+    width: 100px;
+}
