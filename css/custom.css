@@ -23,3 +23,11 @@
     margin-left: auto; !important
     margin-right: auto; !important
 }
+
+.jj-padding {
+    padding-left: 15px !important
+}
+
+.breadcrumb:before {
+    color: #1565c0 !important
+}
